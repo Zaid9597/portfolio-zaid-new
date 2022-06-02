@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-zaid-new/static/css/main.331648ee.css",
+    "main.js": "/portfolio-zaid-new/static/js/main.86a55121.js",
+    "static/media/flighinsurancefinalposter.png": "/portfolio-zaid-new/static/media/flighinsurancefinalposter.a278d7dabec16f566c70.png",
+    "static/media/mrsfinalposter.png": "/portfolio-zaid-new/static/media/mrsfinalposter.b23ba14498291a3fabd9.png",
+    "static/media/objectdetectionfinalposter.png": "/portfolio-zaid-new/static/media/objectdetectionfinalposter.6101900e705fba17bd57.png",
+    "static/media/chatbotawsfinalposter.png": "/portfolio-zaid-new/static/media/chatbotawsfinalposter.b470763f7d6a1581a40d.png",
+    "static/media/rentacrossusfinalposter.png": "/portfolio-zaid-new/static/media/rentacrossusfinalposter.f9e9091690fb74fd2f09.png",
+    "static/media/nbafinalposter.jpeg": "/portfolio-zaid-new/static/media/nbafinalposter.edf4e10d3dcb80a7c5e5.jpeg",
+    "static/media/zaid_transparent.png": "/portfolio-zaid-new/static/media/zaid_transparent.bc99fb1f9cd604a6acc0.png",
+    "static/media/Resume.pdf": "/portfolio-zaid-new/static/media/Resume.954a73494fce71a72807.pdf",
+    "static/media/Gumela Regular.otf": "/portfolio-zaid-new/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/newpython.png": "/portfolio-zaid-new/static/media/newpython.f32a9abc9f7c93b4f13a.png",
+    "static/media/aws_nobg.png": "/portfolio-zaid-new/static/media/aws_nobg.10ab51797483587807f7.png",
+    "static/media/cpp_nobg.png": "/portfolio-zaid-new/static/media/cpp_nobg.49fde3d83362d1b4c6cb.png",
+    "static/media/Rnew.png": "/portfolio-zaid-new/static/media/Rnew.c1927e3010d3ce787604.png",
+    "static/media/humble.png": "/portfolio-zaid-new/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolio-zaid-new/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portfolio-zaid-new/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/Vector2.png": "/portfolio-zaid-new/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/portfolio-zaid-new/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/portfolio-zaid-new/index.html",
+    "main.331648ee.css.map": "/portfolio-zaid-new/static/css/main.331648ee.css.map",
+    "main.86a55121.js.map": "/portfolio-zaid-new/static/js/main.86a55121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.331648ee.css",
+    "static/js/main.86a55121.js"
+  ]
+}
