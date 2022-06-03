@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-zaid-new/static/css/main.331648ee.css",
-    "main.js": "/portfolio-zaid-new/static/js/main.b7ca08db.js",
+    "main.js": "/portfolio-zaid-new/static/js/main.b936bdbe.js",
     "static/media/flighinsurancefinalposter.png": "/portfolio-zaid-new/static/media/flighinsurancefinalposter.a278d7dabec16f566c70.png",
     "static/media/mrsfinalposter.png": "/portfolio-zaid-new/static/media/mrsfinalposter.b23ba14498291a3fabd9.png",
     "static/media/objectdetectionfinalposter.png": "/portfolio-zaid-new/static/media/objectdetectionfinalposter.6101900e705fba17bd57.png",
     "static/media/chatbotawsfinalposter.png": "/portfolio-zaid-new/static/media/chatbotawsfinalposter.b470763f7d6a1581a40d.png",
     "static/media/rentacrossusfinalposter.png": "/portfolio-zaid-new/static/media/rentacrossusfinalposter.f9e9091690fb74fd2f09.png",
     "static/media/nbafinalposter.jpeg": "/portfolio-zaid-new/static/media/nbafinalposter.edf4e10d3dcb80a7c5e5.jpeg",
+    "static/media/Resume.pdf": "/portfolio-zaid-new/static/media/Resume.dc1c889f5a1de7237ddc.pdf",
     "static/media/zaid_transparent.png": "/portfolio-zaid-new/static/media/zaid_transparent.bc99fb1f9cd604a6acc0.png",
-    "static/media/Resume.pdf": "/portfolio-zaid-new/static/media/Resume.740ed92af65a702e1cb1.pdf",
     "static/media/Gumela Regular.otf": "/portfolio-zaid-new/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
     "static/media/newpython.png": "/portfolio-zaid-new/static/media/newpython.f32a9abc9f7c93b4f13a.png",
     "static/media/aws_nobg.png": "/portfolio-zaid-new/static/media/aws_nobg.10ab51797483587807f7.png",
@@ -22,10 +22,10 @@
     "static/media/glasses.png": "/portfolio-zaid-new/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/portfolio-zaid-new/index.html",
     "main.331648ee.css.map": "/portfolio-zaid-new/static/css/main.331648ee.css.map",
-    "main.b7ca08db.js.map": "/portfolio-zaid-new/static/js/main.b7ca08db.js.map"
+    "main.b936bdbe.js.map": "/portfolio-zaid-new/static/js/main.b936bdbe.js.map"
   },
   "entrypoints": [
     "static/css/main.331648ee.css",
-    "static/js/main.b7ca08db.js"
+    "static/js/main.b936bdbe.js"
   ]
 }
