@@ -15,7 +15,7 @@ const Intro = () => {
               <div className="i-name">
                   <span>Hey! I'm</span>
                   <span>Zaid Patel</span>
-                  <span>I am an aspiring Data Scientist.</span>
+                  <span>I am an aspiring Software Development Engineer and Data Scientist.</span>
               </div>
                 <Link spy={true} to='Contact' smooth={true}>
                 <button className="button i-button">Hire me</button>
