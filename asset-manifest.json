@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-zaid-new/static/css/main.331648ee.css",
-    "main.js": "/portfolio-zaid-new/static/js/main.86a55121.js",
+    "main.js": "/portfolio-zaid-new/static/js/main.f256a61d.js",
     "static/media/flighinsurancefinalposter.png": "/portfolio-zaid-new/static/media/flighinsurancefinalposter.a278d7dabec16f566c70.png",
     "static/media/mrsfinalposter.png": "/portfolio-zaid-new/static/media/mrsfinalposter.b23ba14498291a3fabd9.png",
     "static/media/objectdetectionfinalposter.png": "/portfolio-zaid-new/static/media/objectdetectionfinalposter.6101900e705fba17bd57.png",
@@ -22,10 +22,10 @@
     "static/media/glasses.png": "/portfolio-zaid-new/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/portfolio-zaid-new/index.html",
     "main.331648ee.css.map": "/portfolio-zaid-new/static/css/main.331648ee.css.map",
-    "main.86a55121.js.map": "/portfolio-zaid-new/static/js/main.86a55121.js.map"
+    "main.f256a61d.js.map": "/portfolio-zaid-new/static/js/main.f256a61d.js.map"
   },
   "entrypoints": [
     "static/css/main.331648ee.css",
-    "static/js/main.86a55121.js"
+    "static/js/main.f256a61d.js"
   ]
 }
