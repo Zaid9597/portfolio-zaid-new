@@ -21,7 +21,7 @@ const transition = {duration:1,type:'spring'}
                   <br/>
                   NYU's Tandon School of Engineering.
                   <br/>
-                  I aspire on building a career as a Software Development Engineer and Data Scientist. 
+                  I aspire on building a career as a Data Scientist. 
                   <br/>
                   I have a deep passion for cooking.
               </spane>
